@@ -1,2 +1,2 @@
-# tanakapress.github.io
+# Tanaka Press
 my first website :)
