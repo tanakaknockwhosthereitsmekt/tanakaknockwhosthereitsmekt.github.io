@@ -218,6 +218,10 @@ body {
         width: 300px;
         max-width: none;
     }
+
+    .decorative-background::after {
+        opacity: 0;
+    }
 }
 
 
