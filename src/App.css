@@ -203,13 +203,13 @@ body {
     }
 
     .social-button {
-        width: 310px;
+        width: 300px;
         max-width: none;
     }
 }
 
 
-@media (max-width: 400px) {
+@media (max-width: 300px) {
 
     /* extra small width displays */
     .social-button {
