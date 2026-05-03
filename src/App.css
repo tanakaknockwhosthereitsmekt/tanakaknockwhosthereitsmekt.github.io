@@ -74,7 +74,7 @@ body {
 .card {
     position: relative;
     z-index: 1;
-    background: #f5f1eb;
+    background: #F2E2D0;
     border-radius: 30px;
     padding: 60px 50px;
     max-width: 560px;
@@ -93,8 +93,8 @@ body {
 }
 
 .profile-image {
-    width: 140px;
-    height: 140px;
+    width: 160px;
+    height: 160px;
     border-radius: 50%;
     border: 4px solid white;
     box-shadow: 0 0 0 4px #1a1a1a;
@@ -173,6 +173,18 @@ body {
     font-size: 20px;
 }
 
+.social-button .icon img,
+.social-button .icon svg {
+    width: 20px;
+    height: 20px;
+    display: block;
+}
+
+/* .social-button.venmo .icon img {
+    width: 36px;
+    height: 36px;
+} */
+
 .social-button .text {
     flex: 1;
 }
@@ -189,8 +201,8 @@ body {
     }
 
     .profile-image {
-        width: 110px;
-        height: 110px;
+        width: 140px;
+        height: 140px;
         margin: 0 auto;
     }
 
